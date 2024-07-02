@@ -1,0 +1,4 @@
+Type,Product,Started Date,Completed Date,Description,Amount,Fee,Currency,State,Balance
+TOPUP,Current,2024-05-12 19:07:54,2024-05-12 19:09:39,Top-Up Deposit,17000.00,0.25,INR,COMPLETED,79169.53
+UPI_PAYMENT,Current,2024-05-15 11:49:41,2024-05-15 11:51:32,Newspaper Subscription,-329.00,0.00,INR,COMPLETED,78840.53
+CARD_PAYMENT,Current,2024-05-17 16:37:11,2024-05-17 16:38:32,Laundry,-180.72,0.18,INR,COMPLETED,78659.63
