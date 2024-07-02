@@ -1,4 +1,4 @@
-### NEXT FINANCE DASHBOARD
+# NEXT FINANCE DASHBOARD
 
 Full-Stack Application that lets authenticated users track their expenses, record transactions and organize them to different accounts and categories, and visualize their financial transactions through charts and graphs.
 
